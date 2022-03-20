@@ -1,5 +1,7 @@
 ## 💜 Olá, meu nome é <strong>Victor Alves!</strong>
 
+<img align="right" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 > Um developer front end apaixonado por tecnologia, sempre buscando aprender coisas novas para tornar sonhos em realidade através da programação.
 
 🔭 Atualmente estudo back-end buscando desenvolver e ampliar o meu conhecimento.
