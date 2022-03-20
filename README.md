@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Victor Alves!</strong>
 
-<img align="right" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="300" src="https://woobro.design/thumbnails/37/web-developer-vector-illustration-5de192c700231.png" />
 
 > Um developer front end apaixonado por tecnologia, sempre buscando aprender coisas novas para tornar sonhos em realidade através da programação.
 
