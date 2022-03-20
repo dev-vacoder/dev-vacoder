@@ -18,6 +18,6 @@
 
 ## ⭐ Informações sobre minha conta GitHub
   
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vacoder&hide=html&layout=compact=true&theme=dracula)](https://github.com/iuricode/)
+  [![dev-vacoder](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vacoder&hide=html&layout=compact=true&theme=dracula)](https://github.com/dev-vacoder/)
   
   
