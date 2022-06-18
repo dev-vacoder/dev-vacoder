@@ -4,7 +4,7 @@
 
 > Um developer front end apaixonado por tecnologia, sempre buscando aprender coisas novas para tornar sonhos em realidade através da programação.
 
-🔭 Atualmente estudo back-end buscando desenvolver e ampliar o meu conhecimento.
+🔭 Atualmente estudo front-end buscando desenvolver e ampliar o meu conhecimento.
 
 💬 Desde pequeno sempre amei a tecnologia e hoje em dia busco tornar esses sonhos em realidade, crescendo e aprendendo cada dia.
 
